@@ -1,0 +1,42 @@
+Standard drinks
+
+Gin & Tonic - 93
+Salty dog - 113
+Bloody Mary - 117
+Moscow Mule - 122
+Mojito - 136
+Shandy Gaff - 215
+Red eye - 217
+Margarita - 145
+Martini - 103
+Manhattan - 161
+Campari & Soda - 194
+Cuba Libre - 126
+Irish Coffee - 148
+Old-Fashioned - 152
+Kahlua & Milk - 200
+Mimosa - 212
+
+Gin Fizz - 93
+Gin Ricky -94
+Bellini - 212
+
+Gimlet - 88
+Balalaika - 116
+Daiquiri - 129
+Alexander - 165
+Sidecar - 169
+
+
+Gin & Tonic:
+Glass - Tumbler
+Ingredients
+  Dry Gin: 45ml
+  Tonic Water:
+  Cut Ice: 1/6
+
+Recipe
+  Put ice in glass
+  Pour dry gin in and stir
+  ? Pour tonic water 8th of the way of the ice by eye
+  ? Add a Lime to the glass
