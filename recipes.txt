@@ -1,3 +1,13 @@
+Words:
+Snow style - スノースタイル,
+Appropriate amount -　適量,
+Pour -　注ぐ,
+Ice -　氷,
+Put in -　入れる,
+
++Read katakana
+
+
 Standard drinks
 
 Gin & Tonic - 93
@@ -31,26 +41,41 @@ Sidecar - 169
 Gin & Tonic:
 Glass - Tumbler
 Ingredients
-  Dry Gin: 45ml
-  Tonic Water:
-  Cut Ice: 1/6
+  Dry Gin: 45ml,
+  Tonic Water: As needed,
+  Cut lime: 1/6th slice,
 
 Recipe
   Put ice in glass
   Pour dry gin in and stir
-  ? Pour tonic water 8th of the way of the ice by eye
-  ? Add a Lime to the glass
+  Pour tonic water the drink reaches eighth of the way of the glass
+  Add a lime or a lemon slice to the rim of the glass
 
 
 Salty dog:
-? Glass - Queens Glass
+Glass - Collins Glass
 Ingredients:
-  Vodka: 45ml
-  Grapefruit juice
-  Salt
+  Vodka: 45ml,
+  Grapefruit juice: As needed,
+  Salt: As needed,
 
 Recipe
-  ? Press a lemon along the edge of the glass
-  ? Press the rim of the glass into salt
+  Press a lemon along the edge of the glass, spreading its juices along the rim
+  Press the rim of the glass into salt
   Put ice in glass
-  Put vodka in, then grapefruit juice, then stir
+  Pour vodka, then grapefruit juice in, then stir
+
+
+Bloody Mary:
+Glass - Collins Glass
+Ingredients:
+  Vodka: 45ml,
+  Tomato juice: As needed,
+  Cut lemon: One slice,
+  Celery stick: One piece,
+
+Recipe:
+  Put ice in glass
+  Pour vodka and then tomato juice in, stir
+  Add a lemon to the rim of the glass
+  Put in a celery stick into the drink
