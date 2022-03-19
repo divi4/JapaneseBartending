@@ -16,6 +16,6 @@ the drinks, have the recipes presented like a grid, that has a quick view and fi
 -Prettify frontend  
 
 ### Someday do  
--Setup database and CRUD for words too
+-Setup database and CRUD for words too  
 -A login system for users to save favourite recipes, their notes and progress  
 -Spaced-repetition system  
